@@ -33,6 +33,7 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+.eslint.config.js
 
 .idea
 app-example
